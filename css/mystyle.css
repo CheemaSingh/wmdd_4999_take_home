@@ -1,0 +1,45 @@
+body{
+	    width: 100%;
+    min-height: 100%;
+    background: #f1f1f12e;
+    padding-top: 20px;
+    font-size: 16px;
+    padding-bottom: 80px;
+}
+
+.myupload{
+	background: #ecebeb38;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.input-group .input-group-addon {
+     line-height: 1!important;
+ }
+
+ .form-control{
+ 	font-size: 1.5rem;
+ }
+
+ .glyphicon-folder-open{
+ 	top:4px;
+ }
+
+ .myupload{
+    height: 200px;
+    transition: 0.5s all ease-in-out;
+    overflow: hidden;
+ }
+
+ .krajee-default.file-preview-frame{
+ 	box-shadow: none;
+ 	background: #f3f3f36b;
+ }
+
+ 
+ #table img{
+    max-width: 100px;
+ }
+ #table_length select{
+    height: 3rem;
+ }
