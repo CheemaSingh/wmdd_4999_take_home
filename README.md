@@ -31,7 +31,14 @@ Other files/directories such as index.html, js, css and img should be uploaded t
 
 Create a dynamoDb table with partition key 'id' of string type
 
-## Simply click browse button to select Image (Allowed Image type jpg,jpeg,gif and png)(*required), Enter description of Image (*required), click upload button, Once the Image is uploaded, the Image will be shown in list for few seconds, then page will reload to recreate table (in HTML page) with all the Images in S3 Bucket. Images in table (in HTML page) can be sorted by clicking the headers (filename,description, imageURL) or you can search for image by description, imageURL or filename.
+## 
+Simply click browse button to select Image (Allowed Image type jpg,jpeg,gif and png)(*required), 
+Enter description of Image (*required), 
+click upload button, 
+Once the Image is uploaded, the Image will be shown in list for few seconds, 
+then page will reload to recreate table (in HTML page) with all the Images in S3 Bucket. 
+Images in table (in HTML page) can be sorted by clicking the headers (filename,description, imageURL) 
+or you can search for image by description, imageURL or filename.
 
 
 
